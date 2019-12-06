@@ -1,0 +1,6 @@
+## ignore this file ##
+*.png
+*.fig
+*.jpg
+.idea
+*.mat
